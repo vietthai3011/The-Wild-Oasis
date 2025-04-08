@@ -27,33 +27,33 @@
 ### 1. Clone dự án
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/vietthai3011/The-Wild-Oasis.git
 cd the-wild-oasis
 ```
 
 ### 2. Cài dependencies
 
-# Dùng npm
+#### Dùng npm
 
 npm install
 
-# Hoặc dùng yarn
+#### Hoặc dùng yarn
 
 yarn install
 
 ### 3. Khởi chạy local
 
-# Dùng npm
+#### Dùng npm
 
 npm run dev
 
-# Hoặc yarn
+#### Hoặc yarn
 
 yarn dev
 
-### Gợi ý cấu trúc thư mục
+## 🗂️ Gợi ý cấu trúc thư mục
 
-src/
+`src/
 ├── components/ # Các UI components tái sử dụng
 ├── features/ # Logic chia theo từng tính năng
 ├── hooks/ # Custom hooks
@@ -61,14 +61,6 @@ src/
 ├── pages/ # Các trang ứng dụng
 ├── utils/ # Hàm tiện ích
 ├── App.jsx # App shell
-└── main.jsx # Entry point của ứng dụng
+└── main.jsx # Entry point của ứng dụng`
 
 ---
-
-Bạn chỉ cần:
-
--   Thay `https://github.com/vietthai3011/The-Wild-Oasis.git` bằng repo thật của bạn
--   Điền tên của bạn vào phần **Tác giả**
--   Nếu có thêm ảnh screenshot hoặc demo, tôi có thể thêm mục đó vào giúp luôn
-
-Muốn tôi render luôn file `.md` để copy thẳng? Hay làm preview đẹp như GitHub README? Nói phát tôi triển liền! 💪
