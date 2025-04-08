@@ -51,9 +51,12 @@ npm run dev
 
 yarn dev
 
+### Sau đó mở trình duyệt tại: 👉 http://localhost:5173/
+
 ## 🗂️ Gợi ý cấu trúc thư mục
 
-`src/
+```
+src/
 ├── components/ # Các UI components tái sử dụng
 ├── features/ # Logic chia theo từng tính năng
 ├── hooks/ # Custom hooks
@@ -61,6 +64,7 @@ yarn dev
 ├── pages/ # Các trang ứng dụng
 ├── utils/ # Hàm tiện ích
 ├── App.jsx # App shell
-└── main.jsx # Entry point của ứng dụng`
+└── main.jsx # Entry point của ứng dụng
+```
 
 ---
