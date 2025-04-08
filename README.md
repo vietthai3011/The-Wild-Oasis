@@ -35,21 +35,21 @@ cd the-wild-oasis
 
 #### Dùng npm
 
-npm install
+`npm install`
 
 #### Hoặc dùng yarn
 
-yarn install
+`yarn install`
 
 ### 3. Khởi chạy local
 
 #### Dùng npm
 
-npm run dev
+`npm run dev `
 
 #### Hoặc yarn
 
-yarn dev
+`yarn dev`
 
 ### Sau đó mở trình duyệt tại: 👉 http://localhost:5173/
 
